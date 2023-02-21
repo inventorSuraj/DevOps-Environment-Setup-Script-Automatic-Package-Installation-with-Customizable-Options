@@ -9,7 +9,7 @@ yum (for Red Hat-based systems)
 brew (for macOS)
 If the apt-get package manager is not installed on your system, the script will attempt to install it automatically.
 
-Usage
+# Usage
 To use the script, simply download the devops-setup.sh file and run it in your terminal:
 
 bash
@@ -19,8 +19,8 @@ The script will prompt you if you want to continue with the automatic installati
 
 If you choose to install packages step by step, the script will prompt you for each package in the list and you can type y to install or n to skip the package.
 
-Contributing
+# Contributing
 If you find a bug or have a feature request, please open an issue or submit a pull request on GitHub.
 
-License
+# License
 This script is licensed under the MIT License.
