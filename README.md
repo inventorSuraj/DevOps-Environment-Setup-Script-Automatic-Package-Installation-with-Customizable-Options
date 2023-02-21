@@ -1,6 +1,7 @@
-# DevOps-Environment-Setup-Script-Automatic-Package-Installation-with-Customizable-Options
+# DevOps Environment Setup Script
+
 This is a Bash script that automates the setup of a complete development environment for DevOps engineers. The script identifies which package manager is running and installs various tools, configurations, and dependencies that are commonly used by DevOps engineers.
-Prerequisites
+# Prerequisites
 The script requires a Bash shell and one of the following package managers to be installed on the system:
 
 apt-get (for Debian-based systems)
